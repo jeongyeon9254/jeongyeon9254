@@ -1,16 +1,30 @@
-### Hi there 👋
+# 안녕하세요 개발자 정연재입니다.
 
-<!--
-**jeongyeon9254/jeongyeon9254** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### `STACKS`
 
-Here are some ideas to get you started:
+![html](https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=Html5&logoColor=white)
+![css](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
+![React](https://img.shields.io/badge/React%20-61DAFB?style=flat-square&logo=React&logoColor=black)
+</br>
+![Axios](https://img.shields.io/badge/Axios%20-red?style=flat-square&logo=Axios&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux%20-764ABC?style=flat-square&logo=Redux&logoColor=black)
+![Styled-Components](https://img.shields.io/badge/StyledComponents%20-DB7093?style=flat-square&logo=StyledComponents&logoColor=black)
+![ReactRouter](https://img.shields.io/badge/ReactRouter%20-CA4245?style=flat-square&logo=ReactRouter&logoColor=black)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 저는 이런 사람입니다.
+
+- 🌱 프론트 엔드 개발자로 Javascript를 공부했으며 React 프레임워크를 사용했습니다.
+- 👩‍🍳 3년정도 요리사로 근무했었습니다.
+- 🚅 현재 경기도 남양주시에 거주하고 있습니다.
+
+### 교육과정
+
+- 🌍 스파르타 코딩 클럽 항해99 4기 수료 (2021.11 ~ 22.02)
+
+### What I Like
+
+- 📺 제 인생 영화는 '포레스트 검프' 입니다.
+- 🔵 문명6를 좋아합니다.
+- 🍕 먹방을 좋아합니다.
+- 🍕 제 최애 스트리머는 '우왁굳' 입니다.
