@@ -21,3 +21,5 @@
 ### 교육과정
 
 - 🌍 스파르타 코딩 클럽 항해99 4기 수료 (2021.11 ~ 22.02)
+
+![jeongyeon9254's github stats](https://github-readme-stats.vercel.app/api?username=jeongyeon9254&show_icons=true)
