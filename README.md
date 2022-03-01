@@ -1,5 +1,3 @@
-# 안녕하세요 개발자 정연재입니다.
-
 ### STACKS
 
 ![html](https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=Html5&logoColor=white)
